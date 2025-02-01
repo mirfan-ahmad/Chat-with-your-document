@@ -1,0 +1,8 @@
+langchain-chroma
+streamlit
+lark
+langchain-experimental
+langchain-community
+langchain-openai
+langchain_google_genai
+pypdf
