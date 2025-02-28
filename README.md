@@ -42,12 +42,6 @@ This project includes both a command-line interface and a Streamlit-based web ap
 
 ## Usage
 
-### CLI Mode
-Run the script to analyze a document and interact with it via the terminal:
-```bash
-python main.py
-```
-
 ### Streamlit Web App
 To launch the chatbot UI, run:
 ```bash
