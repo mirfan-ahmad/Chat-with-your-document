@@ -54,7 +54,6 @@ Upload a PDF and start chatting with your document!
 DocumentQNA/
 │── qna_chatbot.py       # Core document processing and retrieval logic
 │── app.py               # Streamlit web interface
-│── main.py              # Command-line interface
 │── requirements.txt     # Dependencies
 │── .env                 # API keys and environment variables
 │── README.md            # Project documentation
